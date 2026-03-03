@@ -32,6 +32,18 @@ Python • Tkinter • SQLite • Pillow • tkcalendar
 
 ---
 
+## 📸 Preview
+
+### Eingabeformular
+<p align="center">
+  <img src="screenshots/form.png" width="800">
+</p>
+
+### Rechnungsübersicht
+<p align="center">
+  <img src="screenshots/list.png" width="800">
+</p>
+
 ## ▶️ Run
 
 ```bash
